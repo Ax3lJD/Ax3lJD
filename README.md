@@ -12,7 +12,7 @@ I like solving real problems with code — from automating enterprise workflows 
 
 🍱 **[Yami Hibachi](https://yamihibachi.com)** — Full-stack restaurant website & online ordering platform. Vue 3 + Spring Boot + Square Payments API. Real-time menu sync, promo codes, scheduled pickup, email receipts. Live in production.
 
-🔬 **PlastiScan** — Cross-platform mobile app (Expo React Native + Express.js) that uses Claude's vision API to estimate microplastic exposure from food photos.
+🔬 **PlastiScan** *(Name in progress)* — Cross-platform mobile app (Expo React Native + Express.js) that uses Claude's vision API to estimate microplastic exposure from food photos.
 
 🧠 **Cocoon** *(Capstone)* — Microsoft SOW automation tool using Azure, Neo4j Graph RAG, and ML-based risk classification. Built with a team as a senior capstone project.
 
