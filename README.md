@@ -24,6 +24,8 @@ I didn't take the most direct path here. I co-owned an ice cream shop in New Orl
 
 ## Work
 
+**Associate Consultant @ Cognizant** · Starting soon on the Workday integrations practice. My first full-time role after graduation.
+
 **Software Developer Intern @ [Texas Farm Bureau](https://www.txfb-ins.com/)** · Wrote Python automation for COBOL enterprise systems serving 500K+ member accounts. Sat with the people using the systems every day, figured out what was slowing them down, and built tools that actually fixed it.
 
 **Web Developer Intern @ Tulane University** · Maintained web apps for the Mass Spectrometry Lab. Gave bi-weekly presentations to supervisors, which did more for my communication skills than any class.
@@ -47,6 +49,6 @@ I didn't take the most direct path here. I co-owned an ice cream shop in New Orl
 
 ## Currently
 
-Finishing my last semester and looking for my first full-time role. I'm drawn to work where I can move between building, testing, and talking to people about what they actually need. SWE, QA, systems, consulting, I'm not picky about the title. I just want to solve real problems with a good team.
+Starting at Cognizant as an Associate Consultant while continuing to build on the side. I'm always interested in work where I can move between building, testing, and talking to people about what they actually need. SWE, QA, systems, consulting, the title matters less than the problems.
 
 > *"There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind."* — Fred Rogers
