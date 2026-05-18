@@ -4,7 +4,7 @@ CS '26 Baylor Alumni, graduated in May 2026! Bilingual in English and Mandarin.
 
 [![Portfolio](https://img.shields.io/badge/zhansu.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://zhansu.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-su-)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zhan_su1@baylor.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zsupro1@gmail.com)
 
 What drew me to computer science wasn't any one thing. It was the range. The same discipline lets you dig into low-level systems, build something a customer uses tomorrow, or rethink how an entire team works. I like all of it. I like the problem solving, I like that the problems are always different, and I like that the best solutions usually come from understanding the people involved, not just the code.
 
