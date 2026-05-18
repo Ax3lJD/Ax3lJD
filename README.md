@@ -1,6 +1,6 @@
 # Hey, I'm Zhan 👋
 
-CS senior at Baylor, graduating May 2026. Bilingual in English and Mandarin.
+CS '26 Baylor Alumni, graduated in May 2026! Bilingual in English and Mandarin.
 
 [![Portfolio](https://img.shields.io/badge/zhansu.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://zhansu.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhan-su-)
